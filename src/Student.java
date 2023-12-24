@@ -1,13 +1,21 @@
-  
-public class Student{  
+public class Student {
 
-	private String name;  
+private String name;
 
-	public String getName(){  
-		return name;  
-	}  
 
-	public void setName(String name){  
-		this.name=name;  
-	}  
-}  
+
+public String getName(){
+
+return name;
+
+}
+
+//setter method for name
+
+public void setName(String name){
+
+this.name=name;
+
+}
+
+}
